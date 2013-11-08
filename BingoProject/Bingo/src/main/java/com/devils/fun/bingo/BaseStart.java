@@ -15,6 +15,7 @@ import android.view.View;
  * status bar and navigation/system bar) with user interaction.
  *
  * @see SystemUiHider
+ * test
  */
 public class BaseStart extends Activity {
     /**
